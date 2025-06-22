@@ -28,6 +28,7 @@ public class Main {
         Supermarket supermarket12 = new Supermarket("REWE");
         Supermarket supermarket13 = new Supermarket();
         supermarket13.setName("EDEKA");
+        Supermarket supermarket14 = new Supermarket("Penny");
 
         // Creating list of supermarkets
         List<Supermarket> list = new LinkedList<>();
